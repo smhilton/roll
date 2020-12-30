@@ -1,6 +1,7 @@
 
 roll - The dice roller!
-by Stan Hilton
+
+by SMH
 
 About roll,
 * A dice roller that can be used for a variety of games.
