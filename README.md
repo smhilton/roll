@@ -33,5 +33,3 @@ example 4: roll 6 d 6 10
 
 Enjoy!
 
-Text to ASCII Art Generator
-http://patorjk.com/software/taag/#p=display&f=O8&t=READ%20ME
