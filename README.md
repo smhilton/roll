@@ -1,6 +1,5 @@
 
 roll - The dice roller!
-
 by SMH
 
 About roll,
