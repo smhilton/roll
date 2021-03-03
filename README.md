@@ -1,5 +1,5 @@
 
-roll - The dice roller!
+# roll - The dice roller!
 by SMH
 
 About roll,
@@ -31,4 +31,3 @@ example 3: roll 1 d 8 -2
 example 4: roll 6 d 6 10
 
 Enjoy!
-
